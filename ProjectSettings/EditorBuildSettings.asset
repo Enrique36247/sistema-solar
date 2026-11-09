@@ -6,8 +6,38 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Menu.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/SistemaSolar.unity
+    guid: e1231f40c5b17a5479c6ce81a0c34480
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Sol.unity
+    guid: 6c50123b26438b2489d32879fc8f5183
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Mercurio.unity
+    guid: 7a0db5a047c840248a003a22a072780d
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Venus.unity
+    guid: 03873959a6007864383f22f870fb2357
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Tierra.unity
+    guid: 866318119a621f64980be143c16d8a8c
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Marte.unity
+    guid: d5c497c5ca5537f41873ba9c830b1333
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Jupiter.unity
+    guid: c5b2d896d0bc92f488d65aa4bb1f6151
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Saturno.unity
+    guid: 03578c52ddfc67d478470573c16011df
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Urano.unity
+    guid: 0747508b280a1a746a62872af64fb29d
+  - enabled: 1
+    path: Assets/Scenes/Planetas/Neptuno.unity
+    guid: 5c99becfb4712354990de9a61e77efa7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
   m_UseUCBPForAssetBundles: 0
